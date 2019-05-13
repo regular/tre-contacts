@@ -1,0 +1,26 @@
+{
+  "name": "tre-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/tre-contacts.git"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/regular/tre-contacts/issues"
+  },
+  "homepage": "https://github.com/regular/tre-contacts#readme",
+  "dependencies": {
+    "module-styles": "^1.0.0",
+    "mutant": "^3.23.0",
+    "tre-field-observer": "^1.2.0",
+    "tre-string": "^1.0.1"
+  }
+}
